@@ -1,0 +1,14 @@
+{
+  "wine": {
+    "version": "11.0_1",
+    "url": "https://github.com/Gcenx/macOS_Wine_builds/releases/download/11.0_1/wine-stable-11.0_1-osx64.tar.xz",
+    "sha256": "b50dc50ec7f41d58b115a6b685d4d1315ba3c797bd3aa0f49213f2703cb82388",
+    "source": "https://github.com/Gcenx/macOS_Wine_builds/tree/11.0_1"
+  },
+  "cnc-ddraw": {
+    "version": "7.1.0.0",
+    "url": "https://github.com/FunkyFr3sh/cnc-ddraw/releases/download/v7.1.0.0/cnc-ddraw.zip",
+    "sha256": "0b13ab89a64c9918189b1dadd449ef6ed3cb3b7b19cabd96d8adbd95505bb908",
+    "source": "https://github.com/FunkyFr3sh/cnc-ddraw/tree/v7.1.0.0"
+  }
+}
